@@ -8,7 +8,6 @@ This is a English-Japanese lexicon for Machine Learning and Deep Learning termin
 
 | English | 日本語 |
 |:-------------------|:-----------------------|
-
 | Adaptive learning rates | 適応学習率 |
 | Analytical gradient | 解析的勾配 |
 | Architecture | アーキテクチャ |
