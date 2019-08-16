@@ -18,10 +18,10 @@ This is a English-Japanese lexicon for Machine Learning and Deep Learning termin
 | Chain rule | 連鎖律 |
 | Coefficients |  係数 |
 | Color shift | カラーシフト |
-| Contrast change | コントラスト（鮮やかさ）の修正 | 
-| Convolution layer | 畳み込み層 | 
+| Contrast change | コントラスト（鮮やかさ）の修正 |
+| Convolution layer | 畳み込み層 |
 | Cross-entropy loss    | 交差エントロピー誤差                   |
-| Dampens oscillations | 振動を抑制する | 
+| Dampens oscillations | 振動を抑制する |
 | Data augmentation     | データ拡張                   |
 | Data processing       | データ処理                   |
 | Deep learning         | 深層学習                   |
@@ -29,7 +29,7 @@ This is a English-Japanese lexicon for Machine Learning and Deep Learning termin
 | Dropout | Dropout (ドロップアウト) |
 | Early stopping | Early stopping (学習の早々な終了) |
 | Epoch                 | エポック                   |
-| Error | 損失 | 
+| Error | 損失 |
 | Evaluation | 評価 |
 | Finding optimal weights | 最適な重みの探索 |
 | Flip | 反転 |
@@ -38,29 +38,29 @@ This is a English-Japanese lexicon for Machine Learning and Deep Learning termin
 | Gradient checking     | 勾配チェック     |
 | Gradient descent      |  勾配降下法                   |
 | Gradient of the loss | 損失の勾配 |
-| Hyperparameter | ハイパーパラメータ | 
+| Hyperparameter | ハイパーパラメータ |
 | Improvement to SGD | SGDの改良 |
-| Information loss | 情報損失 | 
+| Information loss | 情報損失 |
 | Learning algorithm | 学習アルゴリズム |
 | Learning rate         | 学習率 |
-| Loss function | 損失関数 | 
+| Loss function | 損失関数 |
 | Mini-batch            | ミニバッチ                   |
 | Momentum | Momentum（運動量）|
 | Neural network training | ニューラルネットワークの学習                   |
-| Noise addition | ノイズの付加 | 
+| Noise addition | ノイズの付加 |
 | Non-linear layer | 非線形層 |
 | Numerical gradient | 数値的勾配 |
 | Optimizing convergence | 収束の最適化 |
-| Output | 出力 | 
+| Output | 出力 |
 | Overfitting | 過学習 |
-| Parameter tuning      | パラメータチューニング | 
+| Parameter tuning      | パラメータチューニング |
 | Parameter tuning | パラメータチューニング |
 | Parametrize | パラメータ化する |
 | Pre-trained weights | 学習済みの重み |
 | Prevent overfitting | 過学習を避けるために |
 | Random crop | ランダムな切り抜き |
 | Regularization | 正規化 |
-| Root Mean Square propagation |  二乗平均平方根のプロパゲーション | 
+| Root Mean Square propagation |  二乗平均平方根のプロパゲーション |
 | Rotation | 回転 |
 | Transfer learning     | 転移学習 |
 | Type | 種類 |
