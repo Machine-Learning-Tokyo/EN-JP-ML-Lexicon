@@ -4,7 +4,7 @@ This is a English-Japanese lexicon for Machine Learning and Deep Learning termin
 
 # Deep Learning
 
-## DL tips and tricks [ja](https://github.com/shervinea/cheatsheet-translation/blob/master/ja/cs-230-deep-learning-tips-and-tricks.md)
+## DL tips and tricks [[日本語]](https://github.com/shervinea/cheatsheet-translation/blob/master/ja/cs-230-deep-learning-tips-and-tricks.md)
 
 | English | 日本語 |
 |:--- |:--------------------------- |
