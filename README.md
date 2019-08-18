@@ -1,6 +1,6 @@
 # Machine Learning and Deep Learning: EN-JP Lexicon 
 
-This is a English-Japanese lexicon for Machine Learning and Deep Learning terminology. Based on the translation work for the [Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning) and [Deep Learning cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning) created by @afshinea for Stanford's CS 229 Machine Learning and CS 230 Deep Learning.
+This is an English-Japanese lexicon for Machine Learning and Deep Learning terminology, based on the translation work for the [Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning) and [Deep Learning cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning) created by @afshinea for Stanford's CS 229 Machine Learning and CS 230 Deep Learning. We have included the Japanese cheat sheet translations that were created and reviewed by a team of MLT members for each topic.
 
 # Deep Learning
 
