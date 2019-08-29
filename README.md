@@ -239,8 +239,27 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| something          | なになに                   |
-| something          | なになに                   |
+| Linear Algebra          | 線形代数                   |
+| Calculus          | 微積分                   |
+| Vector          | ベクトル                   |
+| Matrix          | 行列                    |
+| Row          | 行目                |
+| Column          | 列目                   |
+| Notation          | 表記法                   |
+| Element | 要素 |
+| Column-vector | 列ベクトル |
+| Square matrix | 正方行列 |
+| Invertible | 可逆 |
+| Diagonal | 対角成 |
+| Trace | 跡 |
+| Sum | 和 |
+| Symmetric decomposition | 対称分解 |
+| Symmetric | 対称 |
+| Antisymmetric | 反対称 |
+| Norm | ノルム |
+| Function | 関数 |
+| Vector space | ベクトル空間 |
+| Scalar | スカラー |
 
 
 
