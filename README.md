@@ -232,8 +232,20 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| something          | なになに                   |
-| something          | なになに                   |
+| Probability          | 確率                   |
+| Statistics          | 統計                   |
+| Combinatorics          | 組合せ                   |
+| Sample space          | 標本空間                   |
+| Event          | 事象                   |
+| Subset          | 部分集合                   |
+| Result          | 結果                   |
+| Axiom          | 公理                   |
+| Distribution          | 分布                   |
+| Type          | 種類                   |
+| Jointly Distributed Random Variables          | 同時分布の確率変数                   |
+| Marginal density          | 周辺密度                   |
+| Cumulative function          | 累積関数                   |
+
 
 ## Algebra and Calculus
 
