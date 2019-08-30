@@ -1,4 +1,4 @@
-# Machine Learning and Deep Learning: EN-JP Lexicon 
+r# Machine Learning and Deep Learning: EN-JP Lexicon 
 
 This is an English-Japanese lexicon for Machine Learning and Deep Learning terminology, based on the translation work for the [Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning) and [Deep Learning cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning) created by @afshinea for Stanford's CS 229 Machine Learning and CS 230 Deep Learning. We have included the Japanese cheat sheet translations that were created and reviewed by a team of MLT members for each topic.
 
@@ -84,9 +84,37 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| something          | なになに                   |
-| something          | なになに                   |
-
+| long term/ dependencies | 長期依存性関係 |
+| Vanishing gradient | 勾配喪失 |
+| Exploding gradient | 勾配爆発 |
+| Gradient clipping  | 勾配クリッピング |
+| GRU | ゲート付き回帰型ユニット |
+| LSTM | 長・短期記憶 |
+| multiplicative gradien| 掛け算の勾配 |
+| Update gate | 更新ゲート |
+| Relevance gate | 関連ゲート |
+| Forget gate | 忘却ゲート |
+| Output gate | 出力ゲート |
+| Bidirectional RNN | 双方向 RNN |
+| Deep RNN | ディープ RNN |
+| 1-hot representation | 1-hot 表現 |
+| Word Embedding | 単語埋め込み |
+| Embedding Matrix | 埋め込み行列 |
+| CBOW | CBOW |
+| target/context likelihood model | ターゲット/コンテキスト尤度モデル |
+| skip-gram | スキップグラム |
+| negative sampling | ネガティブサンプリング |
+| Notations | ノーテーション |
+| Word2vec | Word2vec |
+| GloVe | グローブ |
+| Skip-gram | スキップグラム |
+| Cosine similarity | コサイン類似度 |
+| t-SNE | t-SNE |
+| n-gram | n-gram |
+| Perplexity | パープレキシティ |
+| Beam search | ビームサーチ |
+| Length normalization | 言語長正規化 |
+| Bleu score | ブルースコア(機械翻訳比較スコア) |
 
 
 # Machine Learning
@@ -232,46 +260,15 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| Probability          | 確率                   |
-| Statistics          | 統計                   |
-| Combinatorics          | 組合せ                   |
-| Sample space          | 標本空間                   |
-| Event          | 事象                   |
-| Subset          | 部分集合                   |
-| Result          | 結果                   |
-| Axiom          | 公理                   |
-| Distribution          | 分布                   |
-| Type          | 種類                   |
-| Jointly Distributed Random Variables          | 同時分布の確率変数                   |
-| Marginal density          | 周辺密度                   |
-| Cumulative function          | 累積関数                   |
-
+| something          | なになに                   |
+| something          | なになに                   |
 
 ## Algebra and Calculus
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| Linear Algebra          | 線形代数                   |
-| Calculus          | 微積分                   |
-| Vector          | ベクトル                   |
-| Matrix          | 行列                    |
-| Row          | 行目                |
-| Column          | 列目                   |
-| Notation          | 表記法                   |
-| Element | 要素 |
-| Column-vector | 列ベクトル |
-| Square matrix | 正方行列 |
-| Invertible | 可逆 |
-| Diagonal | 対角成 |
-| Trace | 跡 |
-| Sum | 和 |
-| Symmetric decomposition | 対称分解 |
-| Symmetric | 対称 |
-| Antisymmetric | 反対称 |
-| Norm | ノルム |
-| Function | 関数 |
-| Vector space | ベクトル空間 |
-| Scalar | スカラー |
+| something          | なになに                   |
+| something          | なになに                   |
 
 
 
