@@ -2,6 +2,9 @@
 
 This is an English-Japanese lexicon for Machine Learning and Deep Learning terminology, based on the translation work for the [Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning) and [Deep Learning cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning) created by @afshinea for Stanford's CS 229 Machine Learning and CS 230 Deep Learning. We have included the Japanese cheat sheet translations that were created and reviewed by a team of MLT members for each topic.
 
+## Translation, review work and lexicon creation done by:
+Yoshiyuki Nakai, Yuta Kanazawa, Hideaki Hamano, Tran Tuan Anh, Nao Takatoshi, Kamu, Rob Altena, Oniki and Suzana Ilic.
+
 # Deep Learning
 
 ## DL tips and tricks
@@ -76,8 +79,48 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| something          | なになに                   |
-| something          | なになに                   |
+| Activation | 活性化 |
+| Activation functions | 活性化関数 |
+| Activation map | 活性化マップ |
+| Architecture | アーキテクチャ |
+| Average pooling | 平均プーリング |
+| Computational trick architectures | 計算トリックアーキテクチャ |
+| Convolution | 畳み込み |
+| Convolution layer | 畳み込み層 |
+| Convolutiona l Neural Networks | 畳み込みニューラルネットワーク |
+| Deep Learning | 深層学習 |
+| Detection | 検出 |
+| Dimensions | 大きさ | <- 次元？
+| Face verification/recognition | 顔認証/認識 |
+| Feature map | 特徴マップ |
+| Filter hyperparameters | フィルタハイパーパラメタ |
+| Fine tuning | 微調整 | ←ファインチューニング
+| Fully connected | 全結合 |
+| Generative Adversarial Net | 敵対的生成ネットワーク |
+| Inception Network | インセプションネットワーク |
+| Intersection over Union | 積集合の和集合 | <-IoU?
+| layer | 層 |
+| Max pooling | 最大プーリング |
+| Model complexity | モデルの複雑さ|
+| Neural style transfer | ニューラルスタイル変換 |
+| Non-max suppression | 非最大抑制 } <-非極大抑制
+| Object detection | オブジェクト検出 |
+| One Shot Learning | 一発学習 | ←One Shot Learning?
+| Padding | パディング |
+| Parameter compatibility | パラメータの互換性 |
+| Pooling | プーリング |
+| R-CNN | R-CNN |
+| Receptive field | 受容野 |
+| Rectified Linear Unit | 正規化線形ユニット |
+| ResNet | ResNet |
+| Siamese network | シャムネットワーク |
+| Softmax | ソフトマックス |
+| Stride | ストライド |
+| Style matrix | スタイル行列 |
+| Style/content cost function | スタイル/コンテンツコスト関数 |
+| Triplet loss | 三重項損失 |
+| Tuning hyperparameters | ハイパーパラメータの調整 |
+| YOLO | YOLO |
 
 
 ## Recurrent Neural Nets
