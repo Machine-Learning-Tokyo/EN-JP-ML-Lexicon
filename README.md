@@ -115,6 +115,26 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Beam search | ビームサーチ |
 | Length normalization | 言語長正規化 |
 | Bleu score | ブルースコア(機械翻訳比較スコア) |
+| likelihood | 可能性 |
+| binary classifiers | バイナリ分類器 |
+| Motivation and notations | 動機と表記 |
+| co-occurence matrix | 共起行列 |
+| weighting function | 重み関数 | 
+| Machine translation | 機会翻訳 |
+| a language model | 言語モデル |
+| a conditional language model | 条件付き言語モデル |
+| conditional probabilities | 条件付き確率 | 
+| naive greedy search | 単純な貪欲法 |
+| Length normalization | 文章の長さの正規化 |
+| softener | 緩衝パラメータ |
+| brevity penalty | 簡潔さへのペナルティ |
+| Attention model | アテンションモデル | 
+| amount of attention | 注意量 | 
+
+
+
+
+
 
 
 # Machine Learning
