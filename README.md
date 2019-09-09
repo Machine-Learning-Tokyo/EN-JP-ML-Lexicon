@@ -275,19 +275,40 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| Probability          | 確率                   |
-| Statistics          | 統計                   |
-| Combinatorics          | 組合せ                   |
-| Sample space          | 標本空間                   |
-| Event          | 事象                   |
-| Subset          | 部分集合                   |
-| Result          | 結果                   |
-| Axiom          | 公理                   |
-| Distribution          | 分布                   |
-| Type          | 種類                   |
-| Jointly Distributed Random Variables          | 同時分布の確率変数                   |
-| Marginal density          | 周辺密度                   |
-| Cumulative function          | 累積関数                   |
+| Axiom | 公理 |
+| Bayes' rule | ベイズの定理 |
+| Boundary | 境界 |
+| Characteristic function | 特性関数 |
+| Chebyshev's inequality | チェビシェフの不等式 |
+| Combinatorics | 組合せ |
+| Conditional Probability | 条件付き確率 |
+| Continuous | 連続 |
+| Cumulative distribution function (CDF) | 累積分布関数 |
+| Cumulative function | 累積関数 |
+| Discrete | 離散 |
+| Distribution | 分布 |
+| Event | 事象 |
+| Expected value | 期待値 |
+| Generalized expected value | 一般化した期待値 |
+| Jointly Distributed Random Variables | 同時分布の確率変数 |
+| Leibniz integral rule | ライプニッツの積分則 |
+| Marginal density | 周辺密度 |
+| Mutually exclusive events | 互いに排反な事象 |
+| Order | 順番 |
+| Partition | 分割 |
+| Permutation | 順列 |
+| Probability | 確率 |
+| Probability density function (PDF) | 確率密度関数 |
+| Probability distribution | 確率分布 |
+| Random variable | 確率変数 |
+| Result | 結果 |
+| Sample space | 標本空間 |
+| Sequence | 数列 |
+| Standard deviation | 標準偏差 |
+| Statistics | 統計 |
+| Subset | 部分集合 |
+| Type | 種類 |
+| Variance | 分散 |
 
 
 ## Algebra and Calculus
