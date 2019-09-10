@@ -82,43 +82,58 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Activation | 活性化 |
 | Activation functions | 活性化関数 |
 | Activation map | 活性化マップ |
+| Anchor box | アンカーボックス |
 | Architecture | アーキテクチャ |
 | Average pooling | 平均プーリング |
+| Bias | バイアス |
+| Bounding box | バウンディングボックス |
 | Computational trick architectures | 計算トリックアーキテクチャ |
 | Convolution | 畳み込み |
 | Convolution layer | 畳み込み層 |
 | Convolutiona l Neural Networks | 畳み込みニューラルネットワーク |
 | Deep Learning | 深層学習 |
 | Detection | 検出 |
-| Dimensions | 大きさ | <- 次元？
+| Dimensions | 次元 |
+| Discriminative model | 識別モデル |
 | Face verification/recognition | 顔認証/認識 |
 | Feature map | 特徴マップ |
 | Filter hyperparameters | フィルタハイパーパラメタ |
-| Fine tuning | 微調整 | ←ファインチューニング
+| Fine tuning | ファインチューニング |
+| Flatten | 平滑化 |
 | Fully connected | 全結合 |
 | Generative Adversarial Net | 敵対的生成ネットワーク |
+| Generative model | 生成モデル |
+| Gram matrix | グラム行列 |
+| Image classification | 画像分類 |
 | Inception Network | インセプションネットワーク |
-| Intersection over Union | 積集合の和集合 | <-IoU?
-| layer | 層 |
+| Intersection over Union | 和集合における共通部分の割合 (IoU) |
+| Layer | 層 |
+| Localization | 位置特定 |
 | Max pooling | 最大プーリング |
 | Model complexity | モデルの複雑さ|
 | Neural style transfer | ニューラルスタイル変換 |
-| Non-max suppression | 非最大抑制 } <-非極大抑制
+| Noise | ノイズ |
+| Non-linearity | 非線形性 |
+| Non-max suppression | 非極大抑制 |
 | Object detection | オブジェクト検出 |
-| One Shot Learning | 一発学習 | ←One Shot Learning?
+| Object recognition | 物体認識 |
+| One Shot Learning | One Shot学習 | 
 | Padding | パディング |
 | Parameter compatibility | パラメータの互換性 |
 | Pooling | プーリング |
 | R-CNN | R-CNN |
 | Receptive field | 受容野 |
-| Rectified Linear Unit | 正規化線形ユニット |
+| Rectified Linear Unit | 正規化線形ユニット (ReLU) |
+| Residual | 残差の |
 | ResNet | ResNet |
+| Segmentation | セグメンテーション |
 | Siamese network | シャムネットワーク |
 | Softmax | ソフトマックス |
 | Stride | ストライド |
 | Style matrix | スタイル行列 |
 | Style/content cost function | スタイル/コンテンツコスト関数 |
-| Triplet loss | 三重項損失 |
+| Training set | 学習セット |
+| Triplet loss | トリプレット損失 |
 | Tuning hyperparameters | ハイパーパラメータの調整 |
 | YOLO | YOLO |
 
