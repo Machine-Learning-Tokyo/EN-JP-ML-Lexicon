@@ -124,7 +124,6 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | R-CNN | R-CNN |
 | Receptive field | 受容野 |
 | Rectified Linear Unit | 正規化線形ユニット (ReLU) |
-| Residual | 残差の |
 | Residual Network (ResNet) | 残差ネットワーク (ResNet) |
 | Segmentation | セグメンテーション |
 | Siamese Network | シャムネットワーク |
