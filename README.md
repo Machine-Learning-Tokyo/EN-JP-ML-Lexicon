@@ -125,9 +125,9 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Receptive field | 受容野 |
 | Rectified Linear Unit | 正規化線形ユニット (ReLU) |
 | Residual | 残差の |
-| ResNet | ResNet |
+| Residual Network (ResNet) | 残差ネットワーク (ResNet) |
 | Segmentation | セグメンテーション |
-| Siamese network | シャムネットワーク |
+| Siamese Network | シャムネットワーク |
 | Softmax | ソフトマックス |
 | Stride | ストライド |
 | Style matrix | スタイル行列 |
@@ -135,7 +135,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Training set | 学習セット |
 | Triplet loss | トリプレット損失 |
 | Tuning hyperparameters | ハイパーパラメータの調整 |
-| YOLO | YOLO |
+| You Only Look Once (YOLO) | YOLO |
 
 
 ## Recurrent Neural Nets
