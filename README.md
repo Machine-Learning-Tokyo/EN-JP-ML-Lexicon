@@ -152,7 +152,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Bleu score | ブルースコア(機械翻訳比較スコア) |
 | Brevity penalty | 簡潔さへのペナルティ |
 | CBOW | CBOW |
-| co-occurence matrix | 共起行列 |
+| Co-occurence matrix | 共起行列 |
 | Conditional probabilities | 条件付き確率 |
 | Cosine similarity | コサイン類似度 |
 | Deep RNN | ディープ RNN |
