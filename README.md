@@ -3,7 +3,7 @@
 This is an English-Japanese lexicon for Machine Learning and Deep Learning terminology, based on the translation work for the [Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning) and [Deep Learning cheatsheets](https://github.com/afshinea/stanford-cs-230-deep-learning) created by @afshinea for Stanford's CS 229 Machine Learning and CS 230 Deep Learning. We have included the Japanese cheat sheet translations that were created and reviewed by a team of MLT members for each topic.
 
 ## Translation, review work and lexicon creation done by:
-[Yoshiyuki Nakai](https://github.com/yoshiyukinakai/), Yuta Kanazawa, Hideaki Hamano, Tran Tuan Anh, Nao Takatoshi, Kamu, Rob Altena, Oniki and [Suzana Ilic](https://www.linkedin.com/in/suzanailic/).
+[Yoshiyuki Nakai](https://github.com/yoshiyukinakai/), Yuta Kanzawa, Hideaki Hamano, Tran Tuan Anh, Nao Takatoshi, Kamu, Rob Altena, Oniki and [Suzana Ilic](https://www.linkedin.com/in/suzanailic/).
 
 # Deep Learning
 
