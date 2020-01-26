@@ -58,7 +58,6 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Output | 出力 |
 | Overfitting | 過学習 |
 | Parameter tuning | パラメータチューニング |
-| Parameter tuning | パラメータチューニング |
 | Parametrize | パラメータ化する |
 | Pre-trained weights | 学習済みの重み |
 | Prevent overfitting | 過学習を避けるために |
@@ -212,9 +211,11 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Classifier | 分類器 |
 | Closed form solution | 閉形式の解 |
 | Coefficients | 係数 |
+| Confusion matrix | 混同行列 |
 | Continuous values | 連続値 |
 | Cost function | コスト関数 |
 | Cross-entropy | クロスエントロピー |
+| Cross validation | クロスバリデーション |
 | Decision boundary | 決定境界 |
 | Decision trees | 決定ツリー |
 | Discriminative model | 判別モデル | 
@@ -224,6 +225,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Estimation | 推定 |
 | Exponential distributions | 般的な指数分布族 |
 | Exponential family | 指数分布族 ― 正準パラメータ |
+| Feature engineering | 特徴量エンジニアリング |
 | Feature mapping | 特徴写像 |
 | Features | 特徴 |
 | Framework | フレームワーク |
@@ -269,6 +271,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Maximizing the likelihood | 尤度を最大にする |
 | Minimum distance | 最短距離 |
 | Misclassification | 誤分類 |
+| Missing value | 欠損値 |
 | Multi-class logistic regression | 多クラス分類ロジスティック回帰  |
 | Multidimensional generalization | 高次元正則化 |
 | Naive Bayes | ナイーブベイズ |
@@ -293,6 +296,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Random forest | ランダムフォレスト |
 | Random variable | ランダムな変数 |
 | Randomly selected features | ランダムに選択された特徴量 |
+| Recommendation | レコメンデーション |
 | Regression | 回帰  |
 | Sample mean | 標本平均 |
 | Shattering | 細分化 |
