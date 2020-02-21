@@ -10,69 +10,68 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 ## DL tips and tricks
 - [日本語のチートシート](https://github.com/shervinea/cheatsheet-translation/blob/master/ja/cs-230-deep-learning-tips-and-tricks.md)
 
-| English | 日本語 |
-|:--- |:--------------------------- |
-| Adaptive learning rates | 適応学習率 |
-| Analytical gradient | 解析的勾配 |
-| Architecture | アーキテクチャ |
-| Backpropagation | 誤差逆伝播法 |
-| Batch normalization | バッチ正規化 |
-| Binary classification | 二項分類 |
-| Calculation | 計算 |
-| Chain rule | 連鎖律 |
-| Coefficients |  係数 |
-| Color shift | カラーシフト |
-| Contrast change | コントラスト（鮮やかさ）の修正 |
-| Convolution layer | 畳み込み層 |
-| Cross-entropy loss | 交差エントロピー誤差 |
-| Dampens oscillations | 振動を抑制する |
-| Data augmentation | データ拡張 |
-| Data processing | データ処理 |
-| Deep learning | 深層学習 |
-| Derivative | 微分 |
-| Dropout | Dropout (ドロップアウト) |
-| Early stopping | Early stopping (学習の早々な終了) |
-| Epoch | エポック |
-| Error | 損失 |
-| Evaluation | 評価 |
-| Finding optimal weights | 最適な重みの探索 |
-| Flip | 反転 |
-| Forward propagation | 順伝播 |
-| Fully connected layer | 全結合層 |
-| Gradient checking | 勾配チェック |
-| Gradient descent | 勾配降下法                   |
-| Gradient of the loss | 損失の勾配 |
-| Hyperparameter | ハイパーパラメータ |
-| Improvement to SGD | SGDの改良 |
-| Information loss | 情報損失 |
-| Learning algorithm | 学習アルゴリズム |
-| Learning rate | 学習率 |
-| Loss function | 損失関数 |
-| Mini-batch | ミニバッチ |
-| Momentum | Momentum（運動量）|
-| Neural network training | ニューラルネットワークの学習 |
-| Noise addition | ノイズの付加 |
-| Non-linear layer | 非線形層 |
-| Numerical gradient | 数値的勾配 |
-| Optimizing convergence | 収束の最適化 |
-| Output | 出力 |
-| Overfitting | 過学習 |
-| Parameter tuning | パラメータチューニング |
-| Parameter tuning | パラメータチューニング |
-| Parametrize | パラメータ化する |
-| Pre-trained weights | 学習済みの重み |
-| Prevent overfitting | 過学習を避けるために |
-| Random crop | ランダムな切り抜き |
-| Regularization | 正規化 |
-| Root Mean Square propagation | 二乗平均平方根のプロパゲーション |
-| Rotation | 回転 |
-| Transfer learning | 転移学習 |
-| Type | 種類 |
-| Updating weights | 重み更新 |
-| Validation loss | バリデーションの損失 |
-| Weight regularization | 重みの正規化 |
-| Weights initialization | 重みの初期化 |
-| Xavier initialization | Xavier初期化 |
+| English | 日本語 | 読み方
+|:--- |:--------------------------- |:-------------------------------
+| Adaptive learning rates | 適応学習率 |　てきおうがくしゅうりつ
+| Analytical gradient | 解析的勾配 |　かいせきてきこうばい
+| Architecture | アーキテクチャ |　アーキテクチャ
+| Backpropagation | 誤差逆伝播法 |　ごさぎゃくでんぱほう
+| Batch normalization | バッチ正規化 |　バッチせいきか
+| Binary classification | 二項分類 |　にこうぶんるい
+| Calculation | 計算 |　けいさん
+| Chain rule | 連鎖律 |　れんさりつ
+| Coefficients |  係数 |　けいすう
+| Color shift | カラーシフト |　カラーシフト
+| Contrast change | コントラスト（鮮やかさ）の修正 |コントラスト（あざやか）のしゅうせい
+| Convolution layer | 畳み込み層 |　たたみこみそう
+| Cross-entropy loss | 交差エントロピー誤差 |　こうさエントロピーごさ
+| Dampens oscillations | 振動を抑制する |　しんどうをよくせいする
+| Data augmentation | データ拡張 |データかくちょう
+| Data processing | データ処理 |データしょり
+| Deep learning | 深層学習 |　しんそうがくしゅう
+| Derivative | 微分 |　びぶん
+| Dropout | Dropout (ドロップアウト) |　ドロップアウト
+| Early stopping | Early stopping (学習の早々な終了) |　がくしゅのそうそうなしゅうりょう
+| Epoch | エポック |　エポック
+| Error | 損失 |　そんしつ
+| Evaluation | 評価 |　ひょうか
+| Finding optimal weights | 最適な重みの探索 | さいてきなおもみのたんさく
+| Flip | 反転 |　はんてん
+| Forward propagation | 順伝播 |　じゅんでんぱ
+| Fully connected layer | 全結合層 |　ぜんけつごうそう
+| Gradient checking | 勾配チェック |　こうばいチェック
+| Gradient descent | 勾配降下法 |　こうばいこうかっほう
+| Gradient of the loss | 損失の勾配 |　そんしつのこうばい
+| Hyperparameter | ハイパーパラメータ |　ハイパーパラメータ
+| Improvement to SGD | SGDの改良 |　SGDのかいりょう
+| Information loss | 情報損失 |　じょうほうそんしつ
+| Learning algorithm | 学習アルゴリズム |　がくしゅアルゴリズム
+| Learning rate | 学習率 |　がくしゅりつ
+| Loss function | 損失関数 | そんしつかんすう
+| Mini-batch | ミニバッチ | ミニバッチ
+| Momentum | Momentum（運動量）|　（うんどうりょう）
+| Neural network training | ニューラルネットワークの学習 | ニューラルネットワークのがくしゅ
+| Noise addition | ノイズの付加 |　ノイズのふか
+| Non-linear layer | 非線形層 |　ひせんかたちそう
+| Numerical gradient | 数値的勾配 |　すうちてきこうばい
+| Optimizing convergence | 収束の最適化 |　しゅうそくのさいてきか
+| Output | 出力 |　しゅつりょく
+| Overfitting | 過学習 |　かがくしゅ
+| Parameter tuning | パラメータチューニング |　パラメータチューニング
+| Parametrize | パラメータ化する |　パラメータかする
+| Pre-trained weights | 学習済みの重み |がくしゅすみのおもみ
+| Prevent overfitting | 過学習を避けるために |　かがくしゅをさけるために
+| Random crop | ランダムな切り抜き |ランダムなきりぬき
+| Regularization | 正規化 |　せいきか
+| Root Mean Square propagation | 二乗平均平方根のプロパゲーション |　にじょうへいきんへいほうこんのプロパゲーション
+| Rotation | 回転 |　かいてん
+| Transfer learning | 転移学習 |　てんいがくしゅ
+| Type | 種類 |　しゅるい
+| Updating weights | 重み更新 |　おもみこうしん
+| Validation loss | バリデーションの損失 |　バリデーションのそんしつ
+| Weight regularization | 重みの正規化 |　おもみのせいきか
+| Weights initialization | 重みの初期化 |　おもみのしょきか
+| Xavier initialization | Xavier初期化 |xavierしょきか
 
 
 ## Convolutional Neural Nets
