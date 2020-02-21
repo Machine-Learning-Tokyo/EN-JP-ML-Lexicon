@@ -138,54 +138,53 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 ## Recurrent Neural Nets
 
-| English            | 日本語                 |
-|:-------------------|:-----------------------|
-| long term/ dependencies | 長期依存性関係 |
-| Vanishing gradient | 勾配喪失 |
-| Exploding gradient | 勾配爆発 |
-| Gradient clipping  | 勾配クリッピング |
-| GRU | ゲート付き回帰型ユニット |
-| LSTM | 長・短期記憶 |
-| multiplicative gradien| 掛け算の勾配 |
-| Update gate | 更新ゲート |
-| Relevance gate | 関連ゲート |
-| Forget gate | 忘却ゲート |
-| Output gate | 出力ゲート |
-| Bidirectional RNN | 双方向 RNN |
-| Deep RNN | ディープ RNN |
-| 1-hot representation | 1-hot 表現 |
-| Word Embedding | 単語埋め込み |
-| Embedding Matrix | 埋め込み行列 |
-| CBOW | CBOW |
-| target/context likelihood model | ターゲット/コンテキスト尤度モデル |
-| skip-gram | スキップグラム |
-| negative sampling | ネガティブサンプリング |
-| Notations | ノーテーション |
-| Word2vec | Word2vec |
-| GloVe | グローブ |
-| Skip-gram | スキップグラム |
-| Cosine similarity | コサイン類似度 |
-| t-SNE | t-SNE |
-| n-gram | n-gram |
-| Perplexity | パープレキシティ |
-| Beam search | ビームサーチ |
-| Length normalization | 言語長正規化 |
-| Bleu score | ブルースコア(機械翻訳比較スコア) |
-| likelihood | 可能性 |
-| binary classifiers | バイナリ分類器 |
-| Motivation and notations | 動機と表記 |
-| co-occurence matrix | 共起行列 |
-| weighting function | 重み関数 |
-| Machine translation | 機会翻訳 |
-| a language model | 言語モデル |
-| a conditional language model | 条件付き言語モデル |
-| conditional probabilities | 条件付き確率 |
-| naive greedy search | 単純な貪欲法 |
-| Length normalization | 文章の長さの正規化 |
-| softener | 緩衝パラメータ |
-| brevity penalty | 簡潔さへのペナルティ |
-| Attention model | アテンションモデル |
-| amount of attention | 注意量 |
+| English            | 日本語                 | ひらがな
+|:-------------------|:-----------------------|:-----------------------
+| long term/ dependencies | 長期依存性関係 |　ちょうきいぞんせいかんけい
+| Vanishing gradient | 勾配喪失 |　こうばいそうしつ
+| Exploding gradient | 勾配爆発 |　こうばいばくはつ
+| Gradient clipping  | 勾配クリッピング |　こうばいクリッピング
+| GRU | ゲート付き回帰型ユニット |　ゲートつきかいきがた
+| LSTM | 長・短期記憶 |　なが‐たんききおく
+| multiplicative gradien| 掛け算の勾配 |　かけざんのこうばい
+| Update gate | 更新ゲート |　こうしんゲート
+| Relevance gate | 関連ゲート |　かんれんゲット
+| Forget gate | 忘却ゲート |　ぼうきゃくゲット
+| Output gate | 出力ゲート |　しゅつりょくゲット
+| Bidirectional RNN | 双方向 RNN |　そうほうこう　RNN
+| Deep RNN | ディープ RNN |　ディープ RNN
+| 1-hot representation | 1-hot 表現 |1-hot ひょうげん
+| Word Embedding | 単語埋め込み |　たんごうめこみ
+| Embedding Matrix | 埋め込み行列 |うめこみぎょうれつ
+| CBOW | CBOW |　CBOW
+| target/context likelihood model | ターゲット/コンテキスト尤度モデル |　ターゲット/コンテキストゆうどモデル
+| skip-gram | スキップグラム |　スキップグラム
+| negative sampling | ネガティブサンプリング |　ネガティブサンプリング
+| Notations | ノーテーション |　ノーテーション
+| Word2vec | Word2vec |　Word2vec
+| GloVe | グローブ |　グローブ
+| Cosine similarity | コサイン類似度 |　コサインるいじど
+| t-SNE | t-SNE |　t-SNE
+| n-gram | n-gram |　n-gram
+| Perplexity | パープレキシティ |　パープレキシティ
+| Beam search | ビームサーチ |　ビームサーチ
+| Length normalization | 言語長正規化 |　げんごちょうせいきか
+| Bleu score | ブルースコア(機械翻訳比較スコア) |　ブルースコア　（きかいほんや（ひかく）スコア
+| likelihood | 可能性 |　かのうせい
+| binary classifiers | バイナリ分類器 |　バイナリぶんるいき
+| Motivation and notations | 動機と表記 |　どうきとひょうき
+| co-occurence matrix | 共起行列 |　きょうきぎょうれつ
+| weighting function | 重み関数 |　おもみかんすう
+| Machine translation | 機会翻訳 |　きかいほんやく
+| a language model | 言語モデル |　げんごモデル
+| a conditional language model | 条件付き言語モデル |　じょうけんつきげんごモデル
+| conditional probabilities | 条件付き確率 |　じょうけんつきかくりつ
+| naive greedy search | 単純な貪欲法 |　たんじゅんなどんよくほう
+| Length normalization | 文章の長さの正規化 |　ぶんしょうのながさのせいきか
+| softener | 緩衝パラメータ |　かんしょうパラメータ
+| brevity penalty | 簡潔さへのペナルティ |　かんけつさへのペナルティ
+| Attention model | アテンションモデル |　アテンションモデル
+| amount of attention | 注意量 |　ちゅういりょう
 
 # Machine Learning
 
