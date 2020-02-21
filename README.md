@@ -71,69 +71,69 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Validation loss | バリデーションの損失 |　バリデーションのそんしつ
 | Weight regularization | 重みの正規化 |　おもみのせいきか
 | Weights initialization | 重みの初期化 |　おもみのしょきか
-| Xavier initialization | Xavier初期化 |xavierしょきか
+| Xavier initialization | Xavier初期化 |　xavierしょきか
 
 
 ## Convolutional Neural Nets
 
-| English            | 日本語                 |
-|:-------------------|:-----------------------|
-| Activation | 活性化 |
-| Activation functions | 活性化関数 |
-| Activation map | 活性化マップ |
-| Anchor box | アンカーボックス |
-| Architecture | アーキテクチャ |
-| Average pooling | 平均プーリング |
-| Bias | バイアス |
-| Bounding box | バウンディングボックス |
-| Computational trick architectures | 計算トリックアーキテクチャ |
-| Convolution | 畳み込み |
-| Convolution layer | 畳み込み層 |
-| Convolutiona l Neural Networks | 畳み込みニューラルネットワーク |
-| Deep Learning | 深層学習 |
-| Detection | 検出 |
-| Dimensions | 次元 |
-| Discriminative model | 識別モデル |
-| Face verification/recognition | 顔認証/認識 |
-| Feature map | 特徴マップ |
-| Filter hyperparameters | フィルタハイパーパラメタ |
-| Fine tuning | ファインチューニング |
-| Flatten | 平滑化 |
-| Fully connected | 全結合 |
-| Generative Adversarial Net | 敵対的生成ネットワーク |
-| Generative model | 生成モデル |
-| Gram matrix | グラム行列 |
-| Image classification | 画像分類 |
-| Inception Network | インセプションネットワーク |
-| Intersection over Union | 和集合における共通部分の割合 (IoU) |
-| Layer | 層 |
-| Localization | 位置特定 |
-| Max pooling | 最大プーリング |
-| Model complexity | モデルの複雑さ|
-| Neural style transfer | ニューラルスタイル変換 |
-| Noise | ノイズ |
-| Non-linearity | 非線形性 |
-| Non-max suppression | 非極大抑制 |
-| Object detection | オブジェクト検出 |
-| Object recognition | 物体認識 |
-| One Shot Learning | One Shot学習 | 
-| Padding | パディング |
-| Parameter compatibility | パラメータの互換性 |
-| Pooling | プーリング |
-| R-CNN | R-CNN |
-| Receptive field | 受容野 |
-| Rectified Linear Unit | 正規化線形ユニット (ReLU) |
-| Residual Network (ResNet) | 残差ネットワーク (ResNet) |
-| Segmentation | セグメンテーション |
-| Siamese Network | シャムネットワーク |
-| Softmax | ソフトマックス |
-| Stride | ストライド |
-| Style matrix | スタイル行列 |
-| Style/content cost function | スタイル/コンテンツコスト関数 |
-| Training set | 学習セット |
-| Triplet loss | トリプレット損失 |
-| Tuning hyperparameters | ハイパーパラメータの調整 |
-| You Only Look Once (YOLO) | YOLO |
+| English            | 日本語                 | ひらがな
+|:-------------------|:-----------------------|:-----------------------
+| Activation | 活性化 | かっせいか
+| Activation functions | 活性化関数 |　かっせいかかんすう
+| Activation map | 活性化マップ |　かっせいかマップ
+| Anchor box | アンカーボックス |　アンカーボックス
+| Architecture | アーキテクチャ |　アーキテクチャ
+| Average pooling | 平均プーリング |　へいきんプーリング
+| Bias | バイアス |　バイアス
+| Bounding box | バウンディングボックス |　バウンディングボックス
+| Computational trick architectures | 計算トリックアーキテクチャ |　けいさんトリックアーキテクチャ
+| Convolution | 畳み込み |　たたみこみ
+| Convolution layer | 畳み込み層 |　たたみこみそう
+| Convolutiona l Neural Networks | 畳み込みニューラルネットワーク |　たたみこみニューラルネットワーク
+| Deep Learning | 深層学習 |　しんそうがくしゅ
+| Detection | 検出 |　けんしゅつ
+| Dimensions | 次元 |　じげん
+| Discriminative model | 識別モデル |　しきべつ
+| Face verification/recognition | 顔認証/認識 |　かおにんしょう／にんしょう
+| Feature map | 特徴マップ |　とくちょうマップ
+| Filter hyperparameters | フィルタハイパーパラメタ |　フィルタハイパーパラメタ
+| Fine tuning | ファインチューニング |　ファインチューニング
+| Flatten | 平滑化 |　へいかつか
+| Fully connected | 全結合 |　ぜんけつごう
+| Generative Adversarial Net | 敵対的生成ネットワーク |　てきたいてきせいせいネットワーク
+| Generative model | 生成モデル |　せいせいモデル
+| Gram matrix | グラム行列 |　グラムぎょうれつ
+| Image classification | 画像分類 |　がぞうぶんるい
+| Inception Network | インセプションネットワーク |　インセプションネットワーク
+| Intersection over Union | 和集合における共通部分の割合 (IoU) |　わしゅうごうにおけるきょうつうぶぶんのわりあい
+| Layer | 層 |　そう
+| Localization | 位置特定 |　いちとくてい
+| Max pooling | 最大プーリング |　さいだいプーリング
+| Model complexity | モデルの複雑さ|　モデルのふくざつさ
+| Neural style transfer | ニューラルスタイル変換 |ニューラルスタイルへんかん
+| Noise | ノイズ （雑音）|　ノイズ　（ざつおん）
+| Non-linearity | 非線形性 |　ひせんかたちせい
+| Non-max suppression | 非極大抑制 |ひきょくだいよくせい
+| Object detection | オブジェクト検出 |　オブジェクトけんしゅつ
+| Object recognition | 物体認識 |　ぶったいにんしょう
+| One Shot Learning | One Shot学習 | One Shotがくしゅう
+| Padding | パディング |　パディング
+| Parameter compatibility | パラメータの互換性 |　パラメータのごかんせい
+| Pooling | プーリング |　プーリング
+| R-CNN | R-CNN |　R-CNN
+| Receptive field | 受容野 |　じゅようの
+| Rectified Linear Unit | 正規化線形ユニット (ReLU) |　せいきかせんけいユニット
+| Residual Network (ResNet) | 残差ネットワーク (ResNet) |　ざんさネットワーク
+| Segmentation | セグメンテーション |　セグメンテーション
+| Siamese Network | シャムネットワーク |　シャムネットワーク
+| Softmax | ソフトマックス |　ソフトマックス
+| Stride | ストライド |　ストライド
+| Style matrix | スタイル行列 |　スタイルぎょうれつ
+| Style/content cost function | スタイル/コンテンツコスト関数 |スタイル/コンテンツコストかんすう
+| Training set | 学習セット |　がくしゅうセット
+| Triplet loss | トリプレット損失 |　トリプレットそんしつ
+| Tuning hyperparameters | ハイパーパラメータの調整 |ハイパーパラメータのちょうせい
+| You Only Look Once (YOLO) | YOLO |　YOLO
 
 
 ## Recurrent Neural Nets
