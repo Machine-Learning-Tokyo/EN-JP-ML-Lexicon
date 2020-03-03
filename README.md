@@ -10,7 +10,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 ## DL tips and tricks
 - [日本語のチートシート](https://github.com/shervinea/cheatsheet-translation/blob/master/ja/cs-230-deep-learning-tips-and-tricks.md)
 
-| English | 日本語 | 読み方
+| English | 日本語 | ひらがな
 |:--- |:--------------------------- |:-------------------------------
 | Adaptive learning rates | 適応学習率 |　てきおうがくしゅうりつ
 | Analytical gradient | 解析的勾配 |　かいせきてきこうばい
@@ -191,131 +191,128 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 ## Supervised Learning
 
 
-| English | 日本語 |
-|:--- |:--------------------------- |
-| Adaptive boosting | 適応的ブースティング |
-| Batch gradient descent | バッチ勾配降下法 |
-| Bayes' rule | ベイズの定理 |
-| Bernoulli | ベルヌーイ |
-| Bernoulli distribution | ベルヌーイ分布 |
-| Bias | バイア |
-| Binary trees | 二分木 |
-| Boosting | ブースティング |
-| Boosting step | ブースティングステップ |
-| Canonical parameter | 正準パラメータ |
-| Chernoff bound | チェルノフ上界 |
-| Class | クラス |
-| Classification | 分類 |
-| Classification and Regression Trees (CART) | 分類・回帰ツリー (CART) |
-| Classifier | 分類器 |
-| Closed form solution | 閉形式の解 |
-| Coefficients | 係数 |
-| Continuous values | 連続値 |
-| Cost function | コスト関数 |
-| Cross-entropy | クロスエントロピー |
-| Decision boundary | 決定境界 |
-| Decision trees | 決定ツリー |
-| Discriminative model | 判別モデル | 
-| Distribution | 分布 |
-| Empirical error | 経験誤差 |
-| Ensemble methods | アンサンブル学習 |
-| Estimation | 推定 |
-| Exponential distributions | 般的な指数分布族 |
-| Exponential family | 指数分布族 ― 正準パラメータ |
-| Feature mapping | 特徴写像 |
-| Features | 特徴 |
-| Framework | フレームワーク |
-| Function | 関数 |
-| Gaussian | ガウス |
-| Gaussian Discriminant Analysis | ガウシアン判別分析 |
-| Gaussian kernel | ガウシアンカーネル |
-| Generalized Linear Models | 一般化線形モデル |
-| Generative Learning | 生成学習 |
-| Generative model | 生成モデル |
-| Generative model | 生成モデル |
-| Geometric | 幾何 |
-| Good performance | 的に良い性能 |
-| Gradient boosting | 勾配ブースティング |
-| Gradient descent | 勾配降下法 |
-| Highly uninterpretable | 解釈しにくい |
-| Hinge loss | ヒンジ損失 |
-| Hoeffding inequality | ヘフディング不等式 |
-| Hypothesis | 仮説 | 
-| Independent | 独立 |
-| Input | 入力 |
-| Interpretable | 解釈しやすい |
-| k-nearest neighbors (k-NN) | k近傍法 (k-NN) | 
-| Kernel | カーネル |
-| Kernel mapping | カーネル写像 |
-| Kernel trick | カーネルトリック |
-| Lagrange multipliers | ラグランジュ乗数 |
-| Lagrangian | ラグランジアン |
-| Learning Theory | 学習理論 |
-| Least Mean Squares | 最小2乗法 |
-| Least squared error | 最小2乗誤差 |
-| Likelihood | 尤度 |
-| Linear classifier | 線形分類器 |
-| Linear models | 線形モデル |
-| Linear regression | 線形回帰 |
-| Link function | リンク関数 |
-| Locally Weighted Regression | 局所重み付き回帰 |
-| Log-likelihood | 対数尤度 |
-| Logistic loss | ロジスティック損失 |
-| Logistic regression | ロジスティック回帰 |
-| Loss function | 損失関数 |
-| Matrix | 行列 |
-| Maximizing the likelihood | 尤度を最大にする |
-| Minimum distance | 最短距離 |
-| Misclassification | 誤分類 |
-| Multi-class logistic regression | 多クラス分類ロジスティック回帰  |
-| Multidimensional generalization | 高次元正則化 |
-| Naive Bayes | ナイーブベイズ |
-| Natural parameter | 自然パラメータ |
-| Non-linear separability | 非線形分離問題 |
-| Non-parametric approaches | ノン・パラメトリックな手法 |
-| Normal equations | 正規方程式 |
-| Normalization parameter | 正規化定数 |
-| Optimal margin classifier | 最適マージン分類器 |
-| Optimal parameters | 最適なパラメータ |
-| Optimization | 最適化 |
-| Optimization problem | 最適化問題 |
-| Ordinary least squares | 最小2乗回帰 |
-| Output | 出力 |
-| Parameter | パラメータ |
-| Parameter update | パラメータ更新 |
-| Poisson | ポワソン |
-| Prediction | 予測 |
-| Probability | 確率 |
-| Probability distributions of the data | データの確率分布 |
-| Probably Approximately Correct (PAC) | 確率的に近似的に正しい (PAC) |
-| Random forest | ランダムフォレスト |
-| Random variable | ランダムな変数 |
-| Randomly selected features | ランダムに選択された特徴量 |
-| Regression | 回帰  |
-| Sample mean | 標本平均 |
-| Shattering | 細分化 |
-| Sigmoid function | シグモイド関数 |
-| Softmax regression | ソフトマックス回帰 | 
-| Spam detection | スパム検知 |
-| Stochastic gradient descent | 確率的勾配降下法 |
-| Supervised Learning | 教師あり学習 |
-| Support Vector Machine (SVM) | サポートベクターマシン |
-| Text classification | テキスト分類 |
-| To maximize | 最大化する |
-| To minimize | 最小化する |
-| To predict | 予測する |
-| Training data | 学習データ |
-| Training error | 学習誤差 |
-| Tree-based methods | ツリーベース学習 |
-| Union bound | 和集合上界 |
-| Update rule | 更新ルール |
-| Upper bound theorem | 上界定理 |
-| Vapnik-Chervonenkis (VC) dimension | ヴァプニク・チェルヴォーネンキス次元 (VC) |
-| Variables | 変数 |
-| Variance | 分散 |
-| Weights | 重み |
-
-
+| English | 日本語 |　ひらがな
+|:--- |:--------------------------- |　:---------------------------
+| Adaptive boosting | 適応的ブースティング | てきおうてきブースティング 
+| Batch gradient descent | バッチ勾配降下法 |バッチこうばいこうかほう
+| Bayes' rule | ベイズの定理 |ベイズのていり
+| Bernoulli | ベルヌーイ |　ベルヌーイ
+| Bernoulli distribution | ベルヌーイ分布 |　ベルヌーイぶんぷ
+| Bias | バイア |　バイア
+| Binary trees | 二分木 |　にぶんぎ
+| Boosting | ブースティング |　ブースティング
+| Boosting step | ブースティングステップ |　ブースティングステップ
+| Canonical parameter | 正準パラメータ |　せいじゅんパラメータ
+| Chernoff bound | チェルノフ上界 |　チェルノフじょうかい
+| Class | クラス |　クラス
+| Classification | 分類 |　ぶんるい
+| Classification and Regression Trees (CART) | 分類・回帰ツリー (CART) |　ぶんるい・かいきツリー
+| Classifier | 分類器 |　ぶんるいき
+| Closed form solution | 閉形式の解 |　へいけいしきのかい
+| Coefficients | 係数 |　けいすう
+| Continuous values | 連続値 |　れんぞくち
+| Cost function | コスト関数 |　かんすう
+| Cross-entropy | クロスエントロピー |　クロスエントロピー
+| Decision boundary | 決定境界 |　けっていきょうかい
+| Decision trees | 決定ツリー |　てっけいツリー
+| Discriminative model | 判別モデル | はんべつモデル
+| Distribution | 分布 |　ぶんぷ
+| Empirical error | 経験誤差 |　けいけんごさ
+| Ensemble methods | アンサンブル学習 |　アンサンブルがくしゅう
+| Estimation | 推定 |　すいてい
+| Exponential distributions | 般的な指数分布族 |　てきなしすうぶんぷ
+| Exponential family | 指数分布族 ― 正準パラメータ |　しすうぶんぷ　― せいじゅんパラメータ 
+| Feature mapping | 特徴写像 |　とくちょうがぞう
+| Features | 特徴 |　とくちょう
+| Framework | フレームワーク |　フレームワーク
+| Function | 関数 |　かんすう
+| Gaussian | ガウシアン |　ガウシアン
+| Gaussian Discriminant Analysis | ガウシアン判別分析 |　ガウシアンはんべつぶんせき
+| Gaussian kernel | ガウシアンカーネル |　ガウシアンカーネル
+| Generalized Linear Models | 一般化線形モデル |　いっぱんかせんけいモデル
+| Generative Learning | 生成学習 |　せいせいがくしゅう
+| Generative model | 生成モデル |　せいせいモデル
+| Geometric | 幾何 |　きか
+| Good performance | 的に良い性能 |　てきないいせいのう
+| Gradient boosting | 勾配ブースティング |　こうばいブースティング
+| Gradient descent | 勾配降下法 |　こうばいこうかほう
+| Highly uninterpretable | 解釈しにくい |　かいしゃくしにくい
+| Hinge loss | ヒンジ損失 |ヒンジそんしつ
+| Hoeffding inequality | ヘフディング不等式 |ヘフディングふとうしき
+| Hypothesis | 仮説 | かせつ
+| Independent | 独立 |　とくりつ
+| Input | 入力 |　にゅうりょく
+| Interpretable | 解釈しやすい |　かいしゃくしやすい
+| k-nearest neighbors (k-NN) | k近傍法 (k-NN) | ｋきんぼうほう
+| Kernel | カーネル |　カーネル
+| Kernel mapping | カーネル写像 |　カーネルしゃぞう
+| Kernel trick | カーネルトリック |　カーネルトリック
+| Lagrange multipliers | ラグランジュ乗数 |　ラグランジュじょうすう
+| Lagrangian | ラグランジアン |　ラグランジアン
+| Learning Theory | 学習理論 |　がくしゅうりろん
+| Least Mean Squares | 最小2乗法 | さいしょう2じょうほう
+| Least squared error | 最小2乗誤差 | さいしょう2じょうごさ
+| Likelihood | 尤度 |　ゆうど
+| Linear classifier | 線形分類器 |　せんけいぶんるいき
+| Linear models | 線形モデル |　せんけいモデル
+| Linear regression | 線形回帰 |　せんけいかいき
+| Link function | リンク関数 |リンクかんすう
+| Locally Weighted Regression | 局所重み付き回帰 |きょくしょおもみつきかいき
+| Log-likelihood | 対数尤度 |　たいすうゆうど
+| Logistic loss | ロジスティック損失 |　ロジスティックそんしつ
+| Logistic regression | ロジスティック回帰 |　ロジスティックかいき
+| Loss function | 損失関数 |　そんしつかんすう
+| Matrix | 行列 |　ぎょうれつ
+| Maximizing the likelihood | 尤度を最大にする | ゆうどをさいだいにする
+| Minimum distance | 最短距離 |　さいたんきょり
+| Misclassification | 誤分類 |　ごぶんるい
+| Multi-class logistic regression | 多クラス分類ロジスティック回帰  |　たクラスぶんるいロジスティクスかいき
+| Multidimensional generalization | 高次元正則化 |　こうじげんせいそくか
+| Naive Bayes | ナイーブベイズ |　ナイーブベイズ
+| Natural parameter | 自然パラメータ |　しぜんパラメータ
+| Non-linear separability | 非線形分離問題 |　ひせんけいぶんりもんだい
+| Non-parametric approaches | ノン・パラメトリックな手法 |　ノン・パラメトリックなしゅほう
+| Normal equations | 正規方程式 |　せいのりかたほどしき
+| Normalization parameter | 正規化定数 |　せいきかていすう
+| Optimal margin classifier | 最適マージン分類器 |　さいてきマージンぶんるいき
+| Optimal parameters | 最適なパラメータ |　さいてきなパラメータ
+| Optimization | 最適化 |　さいてきか
+| Optimization problem | 最適化問題 |　さいてきかもんだい
+| Ordinary least squares | 最小2乗回帰 |　さいしょう2のかいき
+| Output | 出力 |　しゅつりょく
+| Parameter | パラメータ |　パラメータ
+| Parameter update | パラメータ更新 |　パラメータこうしん
+| Poisson | ポワソン |　ポワソン
+| Prediction | 予測 |　よそく
+| Probability | 確率 |　かくりつ
+| Probability distributions of the data | データの確率分布 |　データのかくりつぶんぷ
+| Probably Approximately Correct (PAC) | 確率的に近似的に正しい (PAC) |かくりつてきにきんじてきにただしい
+| Random forest | ランダムフォレスト |　ランダムフォレスト
+| Random variable | ランダムな変数 |　ランダムなへんすう
+| Randomly selected features | ランダムに選択された特徴量 |　ランダムにせんたくされたとくちょうりょう
+| Regression | 回帰  |　かいき
+| Sample mean | 標本平均 |　ひょうほんへいきん
+| Shattering | 細分化 |　さいぶんか
+| Sigmoid function | シグモイド関数 |　シグモイドかんすう
+| Softmax regression | ソフトマックス回帰 | ソフトマックスかいき
+| Spam detection | スパム検知 |　スパムけんち
+| Stochastic gradient descent | 確率的勾配降下法 |　確率的こうばいこうかほう
+| Supervised Learning | 教師あり学習 |　きょうしありがくしゅう
+| Support Vector Machine (SVM) | サポートベクターマシン |　サポートベクターマシン
+| Text classification | テキスト分類 |　テキストぶんるい
+| To maximize | 最大化する |　さいだいかする
+| To minimize | 最小化する |　さいしょうかする
+| To predict | 予測する |　よそくする
+| Training data | 学習データ |　がくしゅうデータ
+| Training error | 学習誤差 |　がくしゅうごさ
+| Tree-based methods | ツリーベース学習 |　ツリーベースがくしゅう
+| Union bound | 和集合上界 |　わしゅうごうじょうかい
+| Update rule | 更新ルール |　こうしんルール
+| Upper bound theorem | 上界定理 |　じょうかいていり
+| Vapnik-Chervonenkis (VC) dimension | ヴァプニク・チェルヴォーネンキス次元 (VC) |　ヴァプニク・チェルヴォーネンキスじげん
+| Variables | 変数 |　へんすう
+| Variance | 分散 |　ぶんさん
+| Weights | 重み |　おもみ
 
 ## Unsupervised Learning
 
@@ -390,6 +387,3 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Function | 関数 |
 | Vector space | ベクトル空間 |
 | Scalar | スカラー |
-
-
-
