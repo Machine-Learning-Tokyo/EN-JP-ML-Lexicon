@@ -190,9 +190,8 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 ## Supervised Learning
 
-
 | English | 日本語 |　ひらがな
-|:--- |:--------------------------- |　:---------------------------
+|:--- |:--------------------------- |:---------------------------
 | Adaptive boosting | 適応的ブースティング | てきおうてきブースティング 
 | Batch gradient descent | バッチ勾配降下法 |バッチこうばいこうかほう
 | Bayes' rule | ベイズの定理 |ベイズのていり
@@ -314,76 +313,67 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Variance | 分散 |　ぶんさん
 | Weights | 重み |　おもみ
 
-## Unsupervised Learning
-
-| English            | 日本語                 |
-|:-------------------|:-----------------------|
-| something          | なになに                   |
-| something          | なになに                   |
-
-
 ## Probabilities and Statistics
 
-| English            | 日本語                 |
-|:-------------------|:-----------------------|
-| Axiom | 公理 |
-| Bayes' rule | ベイズの定理 |
-| Boundary | 境界 |
-| Characteristic function | 特性関数 |
-| Chebyshev's inequality | チェビシェフの不等式 |
-| Combinatorics | 組合せ |
-| Conditional Probability | 条件付き確率 |
-| Continuous | 連続 |
-| Cumulative distribution function (CDF) | 累積分布関数 |
-| Cumulative function | 累積関数 |
-| Discrete | 離散 |
-| Distribution | 分布 |
-| Event | 事象 |
-| Expected value | 期待値 |
-| Generalized expected value | 一般化した期待値 |
-| Jointly Distributed Random Variables | 同時分布の確率変数 |
-| Leibniz integral rule | ライプニッツの積分則 |
-| Marginal density | 周辺密度 |
-| Mutually exclusive events | 互いに排反な事象 |
-| Order | 順番 |
-| Partition | 分割 |
-| Permutation | 順列 |
-| Probability | 確率 |
-| Probability density function (PDF) | 確率密度関数 |
-| Probability distribution | 確率分布 |
-| Random variable | 確率変数 |
-| Result | 結果 |
-| Sample space | 標本空間 |
-| Sequence | 数列 |
-| Standard deviation | 標準偏差 |
-| Statistics | 統計 |
-| Subset | 部分集合 |
-| Type | 種類 |
-| Variance | 分散 |
-
+| English            | 日本語                 |　ひらがな
+|:-------------------|:-----------------------|:-----------------------
+| Axiom | 公理 | こうり
+| Bayes' rule | ベイズの定理 | ベイズのていり
+| Boundary | 境界 |　きょうかい
+| Characteristic function | 特性関数 |　とくせいかんすう
+| Chebyshev's inequality | チェビシェフの不等式 |　チェビシェフのふとうしき
+| Combinatorics | 組合せ |　くみあいせ
+| Conditional Probability | 条件付き確率 |　じょうけんつきかくりつ
+| Continuous | 連続 |　れんぞく
+| Cumulative distribution function (CDF) | 累積分布関数 |　るいせきぶんぷかんすう
+| Cumulative function | 累積関数 |　るいせきかんすう
+| Discrete | 離散 |　りさん
+| Distribution | 分布 |　ぶんぷ
+| Event | 事象 |　じしょう
+| Expected value | 期待値 |　きたいち
+| Generalized expected value | 一般化した期待値 |　いっぱんかしたきたいち
+| Jointly Distributed Random Variables | 同時分布の確率変数 |　どうじぶんぷのかくりつへんすう
+| Leibniz integral rule | ライプニッツの積分則 |　ライプニッツのせきぶんそく
+| Marginal density | 周辺密度 |　しゅうへんみつど
+| Mutually exclusive events | 互いに排反な事象 | たがいにはいはんなじしょう
+| Order | 順番 |　じゅんばん
+| Partition | 分割 |　ぶんかつ
+| Permutation | 順列 |　じゅんれつ
+| Probability | 確率 |　かくりつ
+| Probability density function (PDF) | 確率密度関数 |　かくりつみつどかんすう
+| Probability distribution | 確率分布 |　かくりつぶんぷ
+| Random variable | 確率変数 |　かくりつへんすう
+| Result | 結果 |　けっか
+| Sample space | 標本空間 |　ひょうほんくうかん
+| Sequence | 数列 |　すうれつ
+| Standard deviation | 標準偏差 |　ひょうじゅんへんさ
+| Statistics | 統計 |　とうけい
+| Subset | 部分集合 |　ぶぶんしゅうごう
+| Type | 種類 |　しゅるい
+| Variance | 分散 |　ぶんさん
 
 ## Algebra and Calculus
 
-| English            | 日本語                 |
-|:-------------------|:-----------------------|
-| Linear Algebra          | 線形代数                   |
-| Calculus          | 微積分                   |
-| Vector          | ベクトル                   |
-| Matrix          | 行列                    |
-| Row          | 行目                |
-| Column          | 列目                   |
-| Notation          | 表記法                   |
-| Element | 要素 |
-| Column-vector | 列ベクトル |
-| Square matrix | 正方行列 |
-| Invertible | 可逆 |
-| Diagonal | 対角成 |
-| Trace | 跡 |
-| Sum | 和 |
-| Symmetric decomposition | 対称分解 |
-| Symmetric | 対称 |
-| Antisymmetric | 反対称 |
-| Norm | ノルム |
-| Function | 関数 |
-| Vector space | ベクトル空間 |
-| Scalar | スカラー |
+| English            | 日本語                 |　ひらがな
+|:-------------------|:-----------------------|:-----------------------
+| Linear Algebra | 線形代数 |　せんけいだいすう
+| Calculus | 微積分 |　びせきぶん
+| Vector | ベクトル |　ベクトル
+| Matrix  | 行列 |　ぎょうれつ
+| Row | 行目 |　ぎょうめ
+| Column | 列目 |　れつめ
+| Notation | 表記法 |　ひょうきほう
+| Element | 要素 |　ようそ
+| Column-vector | 列ベクトル |　れつベクトル
+| Square matrix | 正方行列 |　せいほうぎょうれつ
+| Invertible | 可逆 |　かぎゃく
+| Diagonal | 対角 |　たいかく
+| Trace | 跡 |　あと
+| Sum | 和 |　わ
+| Symmetric decomposition | 対称分解 |　たいしょうぶんかい
+| Symmetric | 対称 |　たいしょう
+| Antisymmetric | 反対称 |　はんたいしょう
+| Norm | ノルム |　ノルム
+| Function | 関数 |　かんすう
+| Vector space | ベクトル空間 |　ベクトルくうかん
+| Scalar | スカラー |　スカラー
