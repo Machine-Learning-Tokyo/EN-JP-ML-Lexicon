@@ -73,7 +73,6 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Weights initialization | 重みの初期化 | おもみのしょきか
 | Xavier initialization | Xavier初期化 | xavierしょきか
 
-
 ## Convolutional Neural Nets
 
 | English      | 日本語         | ひらがな
@@ -134,7 +133,6 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Triplet loss | トリプレット損失 | トリプレットそんしつ
 | Tuning hyperparameters | ハイパーパラメータの調整 |ハイパーパラメータのちょうせい
 | You Only Look Once (YOLO) | YOLO | YOLO
-
 
 ## Recurrent Neural Nets
 
