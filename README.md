@@ -323,8 +323,43 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| something          | なになに                   |
-| something          | なになに                   |
+| Agglomerative hierarchical | 凝集階層 |
+| Average linkage | 平均リンケージ |
+| Bell and Sejnowski ICA algorithm | ベルとシノスキーのICAアルゴリズム |
+| Calinski-Harabaz index | Calinski-Harabazインデックス |
+| Centroids | 重心 |
+| Clustering | クラスタリング |
+| Clustering assessment metrics | クラスタリング評価指標 |
+| Complete linkage | 完全リンケージ |
+| Convergence | 収束 |
+| Diagonal | Diagonal |
+| Dimension reduction | 次元削減 |
+| Dispersion matrices | 分散行列 |
+| Distortion function | ひずみ関数 |
+| E-step | E-ステップ |
+| Eigenvalue | 固有値 |
+| Eigenvector | 固有ベクトル |
+| Expectation-Maximization | 期待値最大化法 |
+| Factor analysis | 因子分析 |
+| Gaussians initialization | ガウス分布初期化 |
+| Hierarchical clustering | 階層的クラスタリング |
+| Independent component analysis (ICA) | 独立成分分析 |
+| Jensen's inequality | イェンセンの不等式 |
+| K-means clustering | K平均法 |
+| Latent variables | 潜在変数 |
+| M-step | M-ステップ |
+| Means initialization | 平均の初期化 |
+| Orthogonal matrix | 実直交行列 | 
+| Posterior probabilities | 事後確率 |
+| Principal components | 主成分 |
+| Principal component analysis (PCA) | 主成分分析 |
+| Random variables | ランダムな変数 |
+| Silhouette coefficient | シルエット係数 |
+| Spectral theorem | スペクトル定理 |
+| Unmixing matrix | 非混合行列 |
+| Unsupervised learning | 教師なし学習 |
+| Ward linkage | ウォードリンケージ |
+
 
 
 ## Probabilities and Statistics
