@@ -141,52 +141,52 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| long term/ dependencies | 長期依存性関係 |
-| Vanishing gradient | 勾配喪失 |
+| 1-hot representation | 1-hot 表現 |
+| A Conditional language model | 条件付き言語モデル |
+| A language model | 言語モデル |
+| Amount of attention | 注意量 |
+| Attention model | アテンションモデル |
+| Beam search | ビームサーチ |
+| Bidirectional RNN | 双方向 RNN |
+| Binary classifiers | バイナリ分類器 |
+| Bleu score | ブルースコア(機械翻訳比較スコア) |
+| Brevity penalty | 簡潔さへのペナルティ |
+| CBOW | CBOW |
+| Co-occurence matrix | 共起行列 |
+| Conditional probabilities | 条件付き確率 |
+| Cosine similarity | コサイン類似度 |
+| Deep RNN | ディープ RNN |
+| Embedding Matrix | 埋め込み行列 |
 | Exploding gradient | 勾配爆発 |
+| Forget gate | 忘却ゲート |
+| GloVe | グローブ |
 | Gradient clipping  | 勾配クリッピング |
 | GRU | ゲート付き回帰型ユニット |
-| LSTM | 長・短期記憶 |
-| multiplicative gradien| 掛け算の勾配 |
-| Update gate | 更新ゲート |
-| Relevance gate | 関連ゲート |
-| Forget gate | 忘却ゲート |
-| Output gate | 出力ゲート |
-| Bidirectional RNN | 双方向 RNN |
-| Deep RNN | ディープ RNN |
-| 1-hot representation | 1-hot 表現 |
-| Word Embedding | 単語埋め込み |
-| Embedding Matrix | 埋め込み行列 |
-| CBOW | CBOW |
-| target/context likelihood model | ターゲット/コンテキスト尤度モデル |
-| skip-gram | スキップグラム |
-| negative sampling | ネガティブサンプリング |
-| Notations | ノーテーション |
-| Word2vec | Word2vec |
-| GloVe | グローブ |
-| Skip-gram | スキップグラム |
-| Cosine similarity | コサイン類似度 |
-| t-SNE | t-SNE |
-| n-gram | n-gram |
-| Perplexity | パープレキシティ |
-| Beam search | ビームサーチ |
 | Length normalization | 言語長正規化 |
-| Bleu score | ブルースコア(機械翻訳比較スコア) |
-| likelihood | 可能性 |
-| binary classifiers | バイナリ分類器 |
-| Motivation and notations | 動機と表記 |
-| co-occurence matrix | 共起行列 |
-| weighting function | 重み関数 |
-| Machine translation | 機会翻訳 |
-| a language model | 言語モデル |
-| a conditional language model | 条件付き言語モデル |
-| conditional probabilities | 条件付き確率 |
-| naive greedy search | 単純な貪欲法 |
 | Length normalization | 文章の長さの正規化 |
-| softener | 緩衝パラメータ |
-| brevity penalty | 簡潔さへのペナルティ |
-| Attention model | アテンションモデル |
-| amount of attention | 注意量 |
+| Likelihood | 可能性 |
+| Long term/ dependencies | 長期依存性関係 |
+| LSTM | 長・短期記憶 |
+| Machine translation | 機会翻訳 |
+| Motivation and notations | 動機と表記 |
+| Multiplicative gradien| 掛け算の勾配 |
+| N-gram | n-gram |
+| Naive greedy search | 単純な貪欲法 |
+| Negative sampling | ネガティブサンプリング |
+| Notations | ノーテーション |
+| Output gate | 出力ゲート |
+| Perplexity | パープレキシティ |
+| Relevance gate | 関連ゲート |
+| Skip-gram | スキップグラム |
+| Skip-gram | スキップグラム |
+| Softener | 緩衝パラメータ |
+| t-SNE | t-SNE |
+| Target/context likelihood model | ターゲット/コンテキスト尤度モデル |
+| Update gate | 更新ゲート |
+| Vanishing gradient | 勾配喪失 |
+| Weighting function | 重み関数 |
+| Word Embedding | 単語埋め込み |
+| Word2vec | Word2vec |
 
 # Machine Learning
 
