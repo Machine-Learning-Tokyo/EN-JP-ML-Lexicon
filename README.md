@@ -236,7 +236,6 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Generalized Linear Models | 一般化線形モデル |
 | Generative Learning | 生成学習 |
 | Generative model | 生成モデル |
-| Generative model | 生成モデル |
 | Geometric | 幾何 |
 | Good performance | 的に良い性能 |
 | Gradient boosting | 勾配ブースティング |
