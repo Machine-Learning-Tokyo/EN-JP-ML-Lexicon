@@ -89,7 +89,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Computational trick architectures | 計算トリックアーキテクチャ |
 | Convolution | 畳み込み |
 | Convolution layer | 畳み込み層 |
-| Convolutiona l Neural Networks | 畳み込みニューラルネットワーク |
+| Convolutional Neural Networks | 畳み込みニューラルネットワーク |
 | Deep Learning | 深層学習 |
 | Detection | 検出 |
 | Dimensions | 次元 |
