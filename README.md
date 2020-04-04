@@ -58,6 +58,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Output | 出力 |
 | Overfitting | 過学習 |
 | Parameter tuning | パラメータチューニング |
+| Parameter tuning | パラメータチューニング |
 | Parametrize | パラメータ化する |
 | Pre-trained weights | 学習済みの重み |
 | Prevent overfitting | 過学習を避けるために |
@@ -89,7 +90,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Computational trick architectures | 計算トリックアーキテクチャ |
 | Convolution | 畳み込み |
 | Convolution layer | 畳み込み層 |
-| Convolutional Neural Networks | 畳み込みニューラルネットワーク |
+| Convolutiona l Neural Networks | 畳み込みニューラルネットワーク |
 | Deep Learning | 深層学習 |
 | Detection | 検出 |
 | Dimensions | 次元 |
@@ -232,6 +233,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Gaussian kernel | ガウシアンカーネル |
 | Generalized Linear Models | 一般化線形モデル |
 | Generative Learning | 生成学習 |
+| Generative model | 生成モデル |
 | Generative model | 生成モデル |
 | Geometric | 幾何 |
 | Good performance | 的に良い性能 |
