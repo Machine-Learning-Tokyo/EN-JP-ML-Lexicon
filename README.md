@@ -204,6 +204,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Boosting | ブースティング |
 | Boosting step | ブースティングステップ |
 | Canonical parameter | 正準パラメータ |
+| Categorical variable | カテゴリ変数 |
 | Chernoff bound | チェルノフ上界 |
 | Class | クラス |
 | Classification | 分類 |
@@ -222,6 +223,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Distribution | 分布 |
 | Empirical error | 経験誤差 |
 | Ensemble methods | アンサンブル学習 |
+| Error rate | 誤答率 |
 | Estimation | 推定 |
 | Exponential distributions | 般的な指数分布族 |
 | Exponential family | 指数分布族 ― 正準パラメータ |
@@ -243,6 +245,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Highly uninterpretable | 解釈しにくい |
 | Hinge loss | ヒンジ損失 |
 | Hoeffding inequality | ヘフディング不等式 |
+| Hold out | ホールドアウト |
 | Hypothesis | 仮説 | 
 | Independent | 独立 |
 | Input | 入力 |
@@ -258,6 +261,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Least squared error | 最小2乗誤差 |
 | Likelihood | 尤度 |
 | Linear classifier | 線形分類器 |
+| Linear discriminant analysis | 線形判別分析(LDA) |
 | Linear models | 線形モデル |
 | Linear regression | 線形回帰 |
 | Link function | リンク関数 |
@@ -272,6 +276,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Misclassification | 誤分類 |
 | Missing value | 欠損値 |
 | Multi-class logistic regression | 多クラス分類ロジスティック回帰  |
+| Multi-label classification | 多ラベル分類 / マルチラベル分類 |
 | Multidimensional generalization | 高次元正則化 |
 | Naive Bayes | ナイーブベイズ |
 | Natural parameter | 自然パラメータ |
@@ -279,6 +284,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Non-parametric approaches | ノン・パラメトリックな手法 |
 | Normal equations | 正規方程式 |
 | Normalization parameter | 正規化定数 |
+| Numerical variable | 数値変数 |
 | Optimal margin classifier | 最適マージン分類器 |
 | Optimal parameters | 最適なパラメータ |
 | Optimization | 最適化 |
@@ -374,6 +380,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Boundary | 境界 |
 | Characteristic function | 特性関数 |
 | Chebyshev's inequality | チェビシェフの不等式 |
+| Chi-square statistic | カイ二乗統計量 |
 | Combinatorics | 組合せ |
 | Conditional Probability | 条件付き確率 |
 | Continuous | 連続 |
@@ -387,9 +394,11 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Jointly Distributed Random Variables | 同時分布の確率変数 |
 | Leibniz integral rule | ライプニッツの積分則 |
 | Marginal density | 周辺密度 |
+| Mutual information | 相互情報量 |
 | Mutually exclusive events | 互いに排反な事象 |
 | Order | 順番 |
 | Partition | 分割 |
+| Pearson correlation coefficient | 相関係数 (ピアソンの積率相関係数) |
 | Permutation | 順列 |
 | Probability | 確率 |
 | Probability density function (PDF) | 確率密度関数 |
@@ -398,11 +407,14 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Result | 結果 |
 | Sample space | 標本空間 |
 | Sequence | 数列 |
+| Spearman's rank correlation coefficient | スピアマンの順位相関係数 |
 | Standard deviation | 標準偏差 |
+| Standard error | 標準誤差 |
 | Statistics | 統計 |
 | Subset | 部分集合 |
 | Type | 種類 |
 | Variance | 分散 |
+| Weighted mean | 加重平均 |
 
 
 ## Algebra and Calculus
