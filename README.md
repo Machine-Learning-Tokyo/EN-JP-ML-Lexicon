@@ -421,27 +421,24 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| Linear Algebra          | 線形代数                   |
-| Calculus          | 微積分                   |
-| Vector          | ベクトル                   |
-| Matrix          | 行列                    |
-| Row          | 行目                |
-| Column          | 列目                   |
-| Notation          | 表記法                   |
-| Element | 要素 |
-| Column-vector | 列ベクトル |
-| Square matrix | 正方行列 |
-| Invertible | 可逆 |
-| Diagonal | 対角成 |
-| Trace | 跡 |
-| Sum | 和 |
-| Symmetric decomposition | 対称分解 |
-| Symmetric | 対称 |
 | Antisymmetric | 反対称 |
-| Norm | ノルム |
+| Calculus          | 微積分                   |
+| Column          | 列目                   |
+| Column-vector | 列ベクトル |
+| Diagonal | 対角成 |
+| Element | 要素 |
 | Function | 関数 |
-| Vector space | ベクトル空間 |
+| Invertible | 可逆 |
+| Linear Algebra          | 線形代数                   |
+| Matrix          | 行列                    |
+| Norm | ノルム |
+| Notation          | 表記法                   |
+| Row          | 行目                |
 | Scalar | スカラー |
-
-
-
+| Square matrix | 正方行列 |
+| Sum | 和 |
+| Symmetric | 対称 |
+| Symmetric decomposition | 対称分解 |
+| Trace | 跡 |
+| Vector          | ベクトル                   |
+| Vector space | ベクトル空間 |
