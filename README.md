@@ -433,7 +433,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Matrix          | 行列                    |
 | Norm | ノルム |
 | Notation          | 表記法                   |
-| Row          | 行目                |
+| Row          | 行                |
 | Scalar | スカラー |
 | Square matrix | 正方行列 |
 | Sum | 和 |
