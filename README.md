@@ -423,7 +423,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 |:-------------------|:-----------------------|
 | Antisymmetric | 反対称 |
 | Calculus          | 微積分                   |
-| Column          | 列目                   |
+| Column          | 列                   |
 | Column-vector | 列ベクトル |
 | Diagonal | 対角成 |
 | Element | 要素 |
