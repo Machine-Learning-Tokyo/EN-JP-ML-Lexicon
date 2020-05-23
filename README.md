@@ -216,7 +216,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Continuous values | 連続値 |
 | Cost function | コスト関数 |
 | Cross-entropy | クロスエントロピー |
-| Cross validation | クロスバリデーション |
+| Cross validation | 交差検証 / クロスバリデーション|
 | Decision boundary | 決定境界 |
 | Decision trees | 決定ツリー |
 | Discriminative model | 判別モデル | 
