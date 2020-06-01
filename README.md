@@ -204,6 +204,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Boosting | ブースティング |
 | Boosting step | ブースティングステップ |
 | Canonical parameter | 正準パラメータ |
+| Categorical variable | カテゴリ変数 |
 | Chernoff bound | チェルノフ上界 |
 | Class | クラス |
 | Classification | 分類 |
@@ -211,18 +212,22 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Classifier | 分類器 |
 | Closed form solution | 閉形式の解 |
 | Coefficients | 係数 |
+| Confusion matrix | 混同行列 |
 | Continuous values | 連続値 |
 | Cost function | コスト関数 |
 | Cross-entropy | クロスエントロピー |
+| Cross validation | 交差検証 / クロスバリデーション|
 | Decision boundary | 決定境界 |
 | Decision trees | 決定ツリー |
 | Discriminative model | 判別モデル | 
 | Distribution | 分布 |
 | Empirical error | 経験誤差 |
 | Ensemble methods | アンサンブル学習 |
+| Error rate | 誤答率 |
 | Estimation | 推定 |
 | Exponential distributions | 般的な指数分布族 |
 | Exponential family | 指数分布族 ― 正準パラメータ |
+| Feature engineering | 特徴量エンジニアリング |
 | Feature mapping | 特徴写像 |
 | Features | 特徴 |
 | Framework | フレームワーク |
@@ -240,6 +245,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Highly uninterpretable | 解釈しにくい |
 | Hinge loss | ヒンジ損失 |
 | Hoeffding inequality | ヘフディング不等式 |
+| Hold out | ホールドアウト |
 | Hypothesis | 仮説 | 
 | Independent | 独立 |
 | Input | 入力 |
@@ -255,6 +261,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Least squared error | 最小2乗誤差 |
 | Likelihood | 尤度 |
 | Linear classifier | 線形分類器 |
+| Linear discriminant analysis | 線形判別分析(LDA) |
 | Linear models | 線形モデル |
 | Linear regression | 線形回帰 |
 | Link function | リンク関数 |
@@ -267,7 +274,9 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Maximizing the likelihood | 尤度を最大にする |
 | Minimum distance | 最短距離 |
 | Misclassification | 誤分類 |
+| Missing value | 欠損値 |
 | Multi-class logistic regression | 多クラス分類ロジスティック回帰  |
+| Multi-label classification | 多ラベル分類 / マルチラベル分類 |
 | Multidimensional generalization | 高次元正則化 |
 | Naive Bayes | ナイーブベイズ |
 | Natural parameter | 自然パラメータ |
@@ -275,6 +284,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Non-parametric approaches | ノン・パラメトリックな手法 |
 | Normal equations | 正規方程式 |
 | Normalization parameter | 正規化定数 |
+| Numerical variable | 数値変数 |
 | Optimal margin classifier | 最適マージン分類器 |
 | Optimal parameters | 最適なパラメータ |
 | Optimization | 最適化 |
@@ -291,6 +301,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Random forest | ランダムフォレスト |
 | Random variable | ランダムな変数 |
 | Randomly selected features | ランダムに選択された特徴量 |
+| Recommendation | レコメンデーション |
 | Regression | 回帰  |
 | Sample mean | 標本平均 |
 | Shattering | 細分化 |
@@ -369,6 +380,7 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Boundary | 境界 |
 | Characteristic function | 特性関数 |
 | Chebyshev's inequality | チェビシェフの不等式 |
+| Chi-square statistic | カイ二乗統計量 |
 | Combinatorics | 組合せ |
 | Conditional Probability | 条件付き確率 |
 | Continuous | 連続 |
@@ -382,9 +394,11 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Jointly Distributed Random Variables | 同時分布の確率変数 |
 | Leibniz integral rule | ライプニッツの積分則 |
 | Marginal density | 周辺密度 |
+| Mutual information | 相互情報量 |
 | Mutually exclusive events | 互いに排反な事象 |
 | Order | 順番 |
 | Partition | 分割 |
+| Pearson correlation coefficient | 相関係数 (ピアソンの積率相関係数) |
 | Permutation | 順列 |
 | Probability | 確率 |
 | Probability density function (PDF) | 確率密度関数 |
@@ -393,38 +407,38 @@ This is an English-Japanese lexicon for Machine Learning and Deep Learning termi
 | Result | 結果 |
 | Sample space | 標本空間 |
 | Sequence | 数列 |
+| Spearman's rank correlation coefficient | スピアマンの順位相関係数 |
 | Standard deviation | 標準偏差 |
+| Standard error | 標準誤差 |
 | Statistics | 統計 |
 | Subset | 部分集合 |
 | Type | 種類 |
 | Variance | 分散 |
+| Weighted mean | 加重平均 |
 
 
 ## Algebra and Calculus
 
 | English            | 日本語                 |
 |:-------------------|:-----------------------|
-| Linear Algebra          | 線形代数                   |
-| Calculus          | 微積分                   |
-| Vector          | ベクトル                   |
-| Matrix          | 行列                    |
-| Row          | 行目                |
-| Column          | 列目                   |
-| Notation          | 表記法                   |
-| Element | 要素 |
-| Column-vector | 列ベクトル |
-| Square matrix | 正方行列 |
-| Invertible | 可逆 |
-| Diagonal | 対角成 |
-| Trace | 跡 |
-| Sum | 和 |
-| Symmetric decomposition | 対称分解 |
-| Symmetric | 対称 |
 | Antisymmetric | 反対称 |
-| Norm | ノルム |
+| Calculus          | 微積分                   |
+| Column          | 列                   |
+| Column-vector | 列ベクトル |
+| Diagonal | 対角成 |
+| Element | 要素 |
 | Function | 関数 |
-| Vector space | ベクトル空間 |
+| Invertible | 可逆 |
+| Linear Algebra          | 線形代数                   |
+| Matrix          | 行列                    |
+| Norm | ノルム |
+| Notation          | 表記法                   |
+| Row          | 行                |
 | Scalar | スカラー |
-
-
-
+| Square matrix | 正方行列 |
+| Sum | 和 |
+| Symmetric | 対称 |
+| Symmetric decomposition | 対称分解 |
+| Trace | 跡 |
+| Vector          | ベクトル                   |
+| Vector space | ベクトル空間 |
